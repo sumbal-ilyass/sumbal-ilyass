@@ -8,7 +8,7 @@
 - 👯 **Looking to collaborate on**: Open-source projects in the AI/ML domain, especially those that focus on real-world applications of deep learning and NLP.
 - 🤔 **Looking for help with**: Improving model performance, hyperparameter tuning, and exploring novel NLP applications.
 - 💬 **Ask me about**: **Python programming**, **machine learning algorithms**, **deep learning frameworks**, and **NLP**.
-- 📫 **How to reach me**:[LinkedIn](https://www.linkedin.com/in/sumbal-ilyas).
+- 📫 **How to reach me**:https://www.linkedin.com/in/sumbal-ilyass
 - ⚡ **Fun fact**: I love learning about emerging AI technologies and working on projects that have the potential to make an impact.
 
 ### 🛠️ Technologies & Tools:
