@@ -11,9 +11,6 @@
 - 📫 **How to reach me**:[LinkedIn](https://www.linkedin.com/in/sumbal-ilyas).
 - ⚡ **Fun fact**: I love learning about emerging AI technologies and working on projects that have the potential to make an impact.
 
-### 🌐 Explore My Work:
-- **[Google Colab Notebooks](https://colab.research.google.com/github/your-username/your-repository)**: Open my Colab notebooks to explore machine learning and AI models in action. (Add the actual link to your notebooks here.)
-
 ### 🛠️ Technologies & Tools:
 - **Programming Languages**: Python
 - **Libraries & Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn, NLTK, spaCy
